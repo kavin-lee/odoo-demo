@@ -1,7 +1,7 @@
 {
     'name': 'Library Members',
     'description': 'Manage people who will be able to borrow books.',
-    'author': 'Alan Hou',
+    'author': 'kavin lee',
     'depends': ['library_app', 'mail'],
     'application': False,
     'data':[
